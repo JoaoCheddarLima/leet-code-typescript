@@ -4,11 +4,11 @@
   "description": "<div align=\"center\">\r     <image src=\"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRG7hHuapTnECZASrZKyzCk2tO0L0YeoblJ8WyFi_O0MA&s\"/>\r </div>",
   "main": "./scripts/automaton.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "compile": "tsc",
     "build": "tsx ./scripts/automaton.ts",
     "start": "ts-node ./scripts/start.ts",
-    "end": "ts-node ./scripts/end.ts"
+    "end": "ts-node ./scripts/end.ts",
+    "test": "tsx ./answer.ts"
   },
   "keywords": [],
   "author": "",

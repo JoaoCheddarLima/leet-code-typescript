@@ -8,7 +8,15 @@
 
 👋 The problem solving will be done by doing 100% of each level inside a topic, starting from easy to hard.
 
-## Down below you will find the stuff done based on the folder structres of the repo, see how is done [here]("./scripts/automaton.ts")
+### 🤖 Automation scripts
+
+`yarn start`: Will clone the template file from [Templates Folder]("./templates") and write on top level as "Answer.ts"
+
+`yarn end`: Will write you "answer.ts" file into the specified folder based on the exported variables on top of your answer file
+
+`yarn build`: Will write a automated README, code after the commented tag down below
+
+### 📖 Now you will find the direct links from the files solved inside the difficulty labeled folders, see how it's automated [here]("./scripts/automaton.ts")
 <!-- Automated code down below! check automaton.ts -->
 <details>
 <summary>

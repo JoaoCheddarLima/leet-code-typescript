@@ -20,7 +20,11 @@
 <!-- Automated code down below! check automaton.ts -->
 <details>
 <summary>
-📚 EASY</summary>No problems solved for easy yet.</details>
+📚 EASY</summary>
+<summary>
+
+#### 🔎 Problem: [Permutation Difference Between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings)</summary>
+🎯 [TypeScript Solution](./easy/permutation-difference-between-two-strings/index.ts) | [LeetCode Solution](https://leetcode.com/problems/permutation-difference-between-two-strings/submissions/1265621100) | [Problem](https://leetcode.com/problems/permutation-difference-between-two-strings) | Tags: [[hash-table](https://leetcode.com/tag/hash-table) | [string](https://leetcode.com/tag/string)]<br></details>
 <details>
 <summary>
 📚 MEDIUM</summary>No problems solved for medium yet.</details>

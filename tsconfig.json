@@ -2,9 +2,12 @@
     "compilerOptions": {
         "noImplicitAny": true,
         "strictNullChecks": true,
-        "module": "NodeNext",
+        "module": "Node16",
         "esModuleInterop": true,
         "strictBindCallApply": false,
-        "alwaysStrict": false
+        "allowImportingTsExtensions": true,
+        "noEmit": true,
+        "alwaysStrict": false,
+        "outDir": "./dist"
     }
 }

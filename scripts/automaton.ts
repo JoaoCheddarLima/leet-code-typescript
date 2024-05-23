@@ -7,7 +7,7 @@ const README = readFileSync("./README.md", "utf-8")
 
 const automaton = new AutomatonBuilder(README, botCutWord);
 
-const DEV_MODE = true
+const DEV_MODE = false
 
 function log(text: string): void {
     if (DEV_MODE) console.log(text);
@@ -26,7 +26,7 @@ function log(text: string): void {
                 log(`Found ${openSolutions.length} solutions for ${problem}...`)
                 for (const solution of openSolutions) {
                     log(`Reading ${solution}...`)
-                    const solutionModule = await import(`./${difficulty}/${problem}/${solution}`)
+                    const solutionModule = await import(`../${difficulty}/${problem}/${solution}`)
 
                     log(`Adding ${solution} to automaton...`)
                     automaton.addItem({

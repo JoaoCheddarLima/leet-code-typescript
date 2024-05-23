@@ -10,13 +10,13 @@
 
 ### 🤖 Automation scripts
 
-`yarn start`: Will clone the template file from [Templates Folder]("./templates") and write on top level as "Answer.ts"
+`yarn start`: Will clone the template file from <a href="./templates/">Templates Folder</a> and write on top level as "Answer.ts"
 
 `yarn end`: Will write you "answer.ts" file into the specified folder based on the exported variables on top of your answer file
 
 `yarn build`: Will write a automated README, code after the commented tag down below
 
-### 📖 Now you will find the direct links from the files solved inside the difficulty labeled folders, see how it's automated [here]("./scripts/automaton.ts")
+### 📖 Now you will find the direct links from the files solved inside the difficulty labeled folders. <a href="./scripts/automaton.ts">see how it's automated </a>
 <!-- Automated code down below! check automaton.ts -->
 <details>
 <summary>

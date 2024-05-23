@@ -33,5 +33,5 @@ const nums = [
 ]
 
 for (const num of nums) {
-    // console.log(numJewelsInStonesTest(num[0], num[1]))
+    console.log(numJewelsInStonesTest(num[0], num[1]))
 }

@@ -47,5 +47,5 @@ const nums = [
 ]
 
 for (const num of nums) {
-    console.log(numIdenticalPairs(num))
+    // console.log(numIdenticalPairs(num))
 }

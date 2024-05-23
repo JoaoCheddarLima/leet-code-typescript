@@ -31,10 +31,16 @@
 📚 EASY</summary>
 <summary>
 
+#### 🔎 Problem: [Jewels And Stones](https://leetcode.com/problems/jewels-and-stones)</summary>
+🎯 [TypeScript Solution](./easy/jewels-and-stones/index.ts) | [LeetCode Solution](https://leetcode.com/problems/jewels-and-stones/submissions/) | [Problem](https://leetcode.com/problems/jewels-and-stones) | Tags: [[hash-table](https://leetcode.com/tag/hash-table) | [array](https://leetcode.com/tag/array)]<br>
+<summary>
+
+#### 🔎 Problem: [Number Of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)</summary>
+🎯 [TypeScript Solution](./easy/number-of-good-pairs/index.ts) | [LeetCode Solution](https://leetcode.com/problems/number-of-good-pairs/submissions/1266168814) | [Problem](https://leetcode.com/problems/number-of-good-pairs) | Tags: [[array](https://leetcode.com/tag/array) | [hash-table](https://leetcode.com/tag/hash-table) | [math](https://leetcode.com/tag/math) | [counting](https://leetcode.com/tag/counting)]<br>
+<summary>
+
 #### 🔎 Problem: [Permutation Difference Between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings)</summary>
-
 🎯 [TypeScript Solution](./easy/permutation-difference-between-two-strings/index.ts) | [LeetCode Solution](https://leetcode.com/problems/permutation-difference-between-two-strings/submissions/1265621100) | [Problem](https://leetcode.com/problems/permutation-difference-between-two-strings) | Tags: [[hash-table](https://leetcode.com/tag/hash-table) | [string](https://leetcode.com/tag/string)]<br></details>
-
 <details>
 <summary>
 📚 MEDIUM</summary>No problems solved for medium yet.</details>

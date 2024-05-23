@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "noImplicitAny": true,
+        "strictNullChecks": true,
+        "module": "NodeNext",
+        "esModuleInterop": true,
+        "strictBindCallApply": false,
+        "alwaysStrict": false
+    }
+}

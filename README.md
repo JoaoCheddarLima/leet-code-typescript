@@ -19,6 +19,8 @@
 
 `yarn start`: Will clone the template file from <a href="./templates/">Templates Folder</a> and write on top level as "Answer.ts"
 
+`yarn reset`: Redundancy of `yarn start` but with a better name when we just want to reset the file for new exerices.
+
 `yarn end`: Will write you "answer.ts" file into the specified folder based on the exported variables on top of your answer file
 
 `yarn build`: Will write a automated README, code after the commented tag down below

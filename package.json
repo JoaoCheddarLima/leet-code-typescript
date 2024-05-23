@@ -8,6 +8,7 @@
     "build": "tsx ./scripts/automaton.ts",
     "start": "ts-node ./scripts/start.ts",
     "end": "ts-node ./scripts/end.ts",
+    "clear": "ts-node ./scripts/start.ts",
     "test": "tsx ./answer.ts"
   },
   "keywords": [],

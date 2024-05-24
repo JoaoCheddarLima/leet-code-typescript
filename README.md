@@ -45,6 +45,10 @@
 🎯 [TypeScript Solution](./easy/permutation-difference-between-two-strings/index.ts) | [LeetCode Solution](https://leetcode.com/problems/permutation-difference-between-two-strings/submissions/1265621100) | [Problem](https://leetcode.com/problems/permutation-difference-between-two-strings) | Tags: [[hash-table](https://leetcode.com/tag/hash-table) | [string](https://leetcode.com/tag/string)]<br>
 <summary>
 
+#### 🔎 Problem: [Roman To Integer](https://leetcode.com/problems/roman-to-integer)</summary>
+🎯 [TypeScript Solution](./easy/roman-to-integer/index.ts) | [LeetCode Solution](https://leetcode.com/problems/roman-to-integer/submissions/1266584854) | [Problem](https://leetcode.com/problems/roman-to-integer) | Tags: [[hash-table](https://leetcode.com/tag/hash-table) | [math](https://leetcode.com/tag/math) | [string](https://leetcode.com/tag/string)]<br>
+<summary>
+
 #### 🔎 Problem: [Two Sum](https://leetcode.com/problems/two-sum)</summary>
 🎯 [TypeScript Solution](./easy/two-sum/index.ts) | [LeetCode Solution](https://leetcode.com/problems/two-sum/submissions/1266561995) | [Problem](https://leetcode.com/problems/two-sum) | Tags: [[array](https://leetcode.com/tag/array) | [hash-table](https://leetcode.com/tag/hash-table)]<br></details>
 <details>

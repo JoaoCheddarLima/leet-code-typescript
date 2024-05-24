@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "Starting the build process"
 
-read -p "Please type your commit message" x
+read -p "Please type your commit message: " x
 
 echo "Running the save of the current answer"
 

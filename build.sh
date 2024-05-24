@@ -1,6 +1,8 @@
 #!/bin/bash
 echo "Starting the build process"
 
+read -p "Please type your commit message" x
+
 echo "Running the save of the current answer"
 
 yarn end
@@ -23,7 +25,7 @@ git add .
 
 echo "Commiting your build"
 
-git commit -m "Build"
+git commit -m "$x"
 
 echo "Pushing your build"
 

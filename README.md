@@ -39,6 +39,10 @@
 🎯 [TypeScript Solution](./easy/jewels-and-stones/index.ts) | [LeetCode Solution](https://leetcode.com/problems/jewels-and-stones/submissions/) | [Problem](https://leetcode.com/problems/jewels-and-stones) | Tags: [[hash-table](https://leetcode.com/tag/hash-table) | [array](https://leetcode.com/tag/array)]<br>
 <summary>
 
+#### 🔎 Problem: [Majority Element](https://leetcode.com/problems/majority-element)</summary>
+🎯 [TypeScript Solution](./easy/majority-element/index.ts) | [LeetCode Solution](https://leetcode.com/problems/majority-element/submissions/1266917782) | [Problem](https://leetcode.com/problems/majority-element) | Tags: [[hash-table](https://leetcode.com/tag/hash-table) | [array](https://leetcode.com/tag/array) | [divide-and-conquer](https://leetcode.com/tag/divide-and-conquer) | [string](https://leetcode.com/tag/string) | [counting](https://leetcode.com/tag/counting)]<br>
+<summary>
+
 #### 🔎 Problem: [Number Of Good Pairs](https://leetcode.com/problems/number-of-good-pairs)</summary>
 🎯 [TypeScript Solution](./easy/number-of-good-pairs/index.ts) | [LeetCode Solution](https://leetcode.com/problems/number-of-good-pairs/submissions/1266168814) | [Problem](https://leetcode.com/problems/number-of-good-pairs) | Tags: [[array](https://leetcode.com/tag/array) | [hash-table](https://leetcode.com/tag/hash-table) | [math](https://leetcode.com/tag/math) | [counting](https://leetcode.com/tag/counting)]<br>
 <summary>

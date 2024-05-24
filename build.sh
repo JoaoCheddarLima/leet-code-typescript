@@ -15,6 +15,8 @@ echo "Cleaning you answer file..."
 
 yarn clear
 
+echo "Starts the commit and push process"
+
 echo "Staging your build"
 
 git add .
@@ -25,10 +27,6 @@ git commit -m "Build"
 
 echo "Pushing your build"
 
-git push -u origin master
+git push -u origin main
 
 echo "Build pushed"
-
-echo "Ending the execution of your build and cleaning up the environment"
-
-read -p "Press any key to continue" x

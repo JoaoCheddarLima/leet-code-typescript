@@ -27,4 +27,8 @@ echo "Pushing your build"
 
 git push -u origin master
 
+echo "Build pushed"
+
 echo "Ending the execution of your build and cleaning up the environment"
+
+read -p "Press any key to continue" x

@@ -1,6 +1,7 @@
 {
     "compilerOptions": {
-        "noImplicitAny": true,
+        "noImplicitAny": false,
+        "noImplicitReturns": false,
         "strictNullChecks": true,
         "module": "Node16",
         "esModuleInterop": true,

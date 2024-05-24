@@ -42,7 +42,11 @@
 <summary>
 
 #### 🔎 Problem: [Permutation Difference Between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings)</summary>
-🎯 [TypeScript Solution](./easy/permutation-difference-between-two-strings/index.ts) | [LeetCode Solution](https://leetcode.com/problems/permutation-difference-between-two-strings/submissions/1265621100) | [Problem](https://leetcode.com/problems/permutation-difference-between-two-strings) | Tags: [[hash-table](https://leetcode.com/tag/hash-table) | [string](https://leetcode.com/tag/string)]<br></details>
+🎯 [TypeScript Solution](./easy/permutation-difference-between-two-strings/index.ts) | [LeetCode Solution](https://leetcode.com/problems/permutation-difference-between-two-strings/submissions/1265621100) | [Problem](https://leetcode.com/problems/permutation-difference-between-two-strings) | Tags: [[hash-table](https://leetcode.com/tag/hash-table) | [string](https://leetcode.com/tag/string)]<br>
+<summary>
+
+#### 🔎 Problem: [Two Sum](https://leetcode.com/problems/two-sum)</summary>
+🎯 [TypeScript Solution](./easy/two-sum/index.ts) | [LeetCode Solution](https://leetcode.com/problems/two-sum/submissions/1266561995) | [Problem](https://leetcode.com/problems/two-sum) | Tags: [[array](https://leetcode.com/tag/array) | [hash-table](https://leetcode.com/tag/hash-table)]<br></details>
 <details>
 <summary>
 📚 MEDIUM</summary>No problems solved for medium yet.</details>

@@ -9,6 +9,7 @@
     "start": "ts-node ./scripts/start.ts",
     "end": "ts-node ./scripts/end.ts",
     "clear": "ts-node ./scripts/start.ts",
+    "job": "build.sh",
     "test": "tsx ./answer.ts"
   },
   "keywords": [],

@@ -25,6 +25,8 @@
 
 `yarn build`: Will write a automated README, code after the commented tag down below
 
+`yarn job`: Doeas all the scripts and also commits the changes with a message specified by you.
+
 ### 📖 Now you will find the direct links from the files solved inside the difficulty labeled folders. <a href="./scripts/automaton.ts">see how it's automated </a>
 
 <!-- Automated code down below! check automaton.ts -->

@@ -36,6 +36,6 @@ const nums = [
     "MCMXCIV"
 ]
 
-// for (const num of nums) {
-//     console.log(someFnTest(num))
-// }
+for (const num of nums) {
+    console.log(someFnTest(num))
+}

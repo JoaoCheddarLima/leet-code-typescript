@@ -61,6 +61,6 @@ const nums = [
     }
 ]
 
-for (const data of nums) {
-    console.log(someFnTest(data.nums, data.target))
-}
+// for (const data of nums) {
+//     console.log(someFnTest(data.nums, data.target))
+// }

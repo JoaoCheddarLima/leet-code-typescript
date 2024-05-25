@@ -35,6 +35,10 @@
 📚 EASY</summary>
 <summary>
 
+#### 🔎 Problem: [Happy Number](https://leetcode.com/problems/happy-number)</summary>
+🎯 [TypeScript Solution](./easy/happy-number/index.ts) | [LeetCode Solution](https://leetcode.com/problems/happy-number/submissions/1267063195) | [Problem](https://leetcode.com/problems/happy-number) | Tags: [[hash-table](https://leetcode.com/tag/hash-table) | [math](https://leetcode.com/tag/math) | [two-pointers](https://leetcode.com/tag/two-pointers)]<br>
+<summary>
+
 #### 🔎 Problem: [Jewels And Stones](https://leetcode.com/problems/jewels-and-stones)</summary>
 🎯 [TypeScript Solution](./easy/jewels-and-stones/index.ts) | [LeetCode Solution](https://leetcode.com/problems/jewels-and-stones/submissions/) | [Problem](https://leetcode.com/problems/jewels-and-stones) | Tags: [[hash-table](https://leetcode.com/tag/hash-table) | [array](https://leetcode.com/tag/array)]<br>
 <summary>
